@@ -39,6 +39,7 @@
   },
   "homepage": "https://github.com/vuejs/vuex#readme",
   "devDependencies": {
+    "@types/node": "^10.5.2",
     "babel-core": "^6.22.1",
     "babel-loader": "^7.1.2",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
@@ -61,7 +62,7 @@
     "rollup-watch": "^4.3.1",
     "selenium-server": "^2.53.1",
     "todomvc-app-css": "^2.1.0",
-    "typescript": "^2.5.3",
+    "typescript": "^3.0.0-dev.20180707",
     "uglify-js": "^3.1.2",
     "vue": "^2.5.16",
     "vue-loader": "^15.2.1",
