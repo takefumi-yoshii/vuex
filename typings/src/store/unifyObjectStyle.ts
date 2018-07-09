@@ -1,5 +1,4 @@
-
-import { isObject, assert } from './util'
+import { isObject, assert } from '../util'
 
 // @Types
 
