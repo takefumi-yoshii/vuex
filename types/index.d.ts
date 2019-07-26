@@ -1,8 +1,5 @@
 import _Vue, { WatchOptions } from "vue";
 
-// augment typings of Vue.js
-import "./vue";
-
 export * from "./helpers";
 
 export declare class Store<S> {
